@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -146,3 +147,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+=======
+/data
+*.pkl
+>>>>>>> adcfb4cdcb50030544c320b9f1dcb70c0eae87b5

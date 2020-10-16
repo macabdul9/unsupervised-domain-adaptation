@@ -79,7 +79,7 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 tokenizers==0.8.1rc2
-torch @ file:///home/bhavitvya/work/wing_nus/torch-1.4.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
+torch==1.4.0
 tornado==6.0.4
 tqdm==4.49.0
 traitlets==5.0.4
