@@ -10,7 +10,6 @@ data/
 *.zip
 *.txt
 *.pth 
-*.csv
 *.tsv
 
 
