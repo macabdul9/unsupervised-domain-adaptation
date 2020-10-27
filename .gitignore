@@ -3,14 +3,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+s
 wandb/
 data/
+models/
 
-*.zip
+*.zips
 *.txt
 *.pth 
 *.tsv
+*.pkl
 
 
 # C extensions
